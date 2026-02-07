@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_confessional_gender_dynamics",
+  "title": "The Carbon of Our Confessions",
+  "tagline": "In a world counting its last breaths, two people measure love, guilt, and survival in parts per million.",
+  "target_words": 70000,
+  "actual_words": 72658,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Eco-Anxiety as Gendered Labor",
+    "The Performance of Purity vs. The Burden of Complicity",
+    "Intimacy in the Age of Calculated Consumption",
+    "Data as a Shield Against Emotional Contagion"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Oxygen Thief",
+      "words": 3027
+    },
+    {
+      "ch": 2,
+      "title": "The Green Canopy's Fiction",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Spreadsheet Condition",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "Panniers and Pastoral Lies",
+      "words": 2980
+    },
+    {
+      "ch": 5,
+      "title": "The Forty Kilometer Gap",
+      "words": 3150
+    },
+    {
+      "ch": 6,
+      "title": "Alana's Perfect Contour",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Prairie Static",
+      "words": 3050
+    },
+    {
+      "ch": 8,
+      "title": "Biodegradable Promises",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Sensor's Glow",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "A Calculated Toast",
+      "words": 3120
+    },
+    {
+      "ch": 11,
+      "title": "Dust on Moss-Green Silk",
+      "words": 2980
+    },
+    {
+      "ch": 12,
+      "title": "The Unfiltered Argument",
+      "words": 3300
+    },
+    {
+      "ch": 13,
+      "title": "Confetti on the Forest Floor",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "The Cost of a Dance",
+      "words": 3150
+    },
+    {
+      "ch": 15,
+      "title": "Night in the Unsealed Ark",
+      "words": 3050
+    },
+    {
+      "ch": 16,
+      "title": "The Honesty of Exhaustion",
+      "words": 2980
+    },
+    {
+      "ch": 17,
+      "title": "Return to the Vortex",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "Data Points of Distance",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Guilt of Clean Air",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "Calibrating Silence",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "A Different Kind of Observance",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "The Unbudgeted Feeling",
+      "words": 2980
+    },
+    {
+      "ch": 23,
+      "title": "Witnesses",
+      "words": 3300
+    },
+    {
+      "ch": 24,
+      "title": "Breathing, Complicit",
+      "words": 3025
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character must explain their 'carbon budget' for a deeply emotional life event (a birth, a funeral, a breakup) to someone who doesn't believe in such calculations.",
+      "Create a monologue from the perspective of a side character (e.g., Alana, Mrs. Gable) observing Mara and Leo's dynamic. How do they interpret this 'climate confessional' from the outside?",
+      "Imagine a 'prequel' chapter showing the first time Mara and Leo discussed moving in together. What were their initial negotiations around space, consumption, and emotional boundaries?",
+      "Write an argument between two people about a shared resource (water, heat, garden space) that isn't really about the resource at all. Use the environment as the stage for a gendered power dynamic."
+    ],
+    "technical": [
+      "Design a 'Carbon Budget Tracker' UI/UX concept for the novel's trip. How would Leo's app visualize the emotional vs. environmental cost of each wedding activity? Consider data sonification or haptic feedback.",
+      "Prototype a 'Filtered vs. Unfiltered' text tool that processes a passage of emotional prose (like Mara's internal monologue) and a passage of data-driven prose (like Leo's observations), highlighting the linguistic and syntactic differences between gendered expressions of anxiety."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Maggie Nelson (blurred memoir/theory, intimate critique)",
+      "Kim Stanley Robinson (socio-political climate fiction, infrastructural realism)",
+      "Ottessa Moshfegh (unlikable confessors, bodily disgust, atmospheric dread)",
+      "Donna Haraway (cyborg feminism, situated knowledges, staying with the trouble)"
+    ]
+  },
+  "cover_prompt": "A man and a woman in a sterile, glass-walled apartment, their faces illuminated by the glow of multiple environmental monitors displaying graphs of CO2, methane, and particulate matter, their bodies close yet separated by the cold light of the data screens, one meticulously tending to a wall of air-purifying plants while the other stares blankly at a personal carbon footprint tracker, in a world where the outside air is a visible, amber haze. The scene is set against a panoramic window view of a dystopian cityscape shrouded in permanent smog, with the faint, ghostly outlines of dead forests on distant hills, and the room itself is a paradox of sustainable luxury and clinical detachment, filled with reclaimed wood, biophilic design, and silent, energy-efficient appliances. In the atmospheric style of Ryoji Ikeda's data-driven installations combined with the intimate, psychologically charged domestic scenes of Edward Hopper and the textured, anxious environmental art of Alexis Rockman. Book cover framing, centered composition with a tight, claustrophobic crop that emphasizes the emotional distance between the figures despite their physical proximity, using a dramatic, slightly elevated angle that makes the data screens and the toxic outside world the dominant visual elements. Clinical, cool LED lighting from the monitors clashes with the warm, desperate glow of a single salt lamp, using a palette of desaturated greens, sterile whites, and oppressive amber smog, punctuated by the urgent reds and yellows of warning graphs. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
